@@ -6,7 +6,7 @@
 // @version      1.0.2
 // @description  Microsoft Rewards Bing Auto Search
 // @author       ehgenong
-// @match        https://rewards.microsoft.com/pointsbreakdown
+// // @match        https://rewards.microsoft.com/
 // @icon         https://www.google.com/s2/favicons?domain=bing.com
 // @grant        GM_xmlhttpRequest
 // @connect      www.bing.com
